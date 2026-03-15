@@ -6,37 +6,37 @@ export default function Team() {
       id: 1,
       name: 'Каримов Зафар',
       position: 'Генеральный директор',
-      image: '/images/team/zafar.jpg'
+      image: '/images/members/zafar.jpg'
     },
     {
       id: 2,
       name: 'Старков Олег',
       position: 'Руководитель отдела по цифровой трансформации и управлению проектами',
-      image: '/images/team/starkov.jpg'
+      image: '/images/members/starkov.jpg'
     },
     {
       id: 3,
       name: 'Нарзыкулов Фахриддин',
       position: 'Руководитель отдела продаж',
-      image: '/images/team/fahridin.jpg'
+      image: '/images/members/fahridin.jpg'
     },
     {
       id: 4,
       name: 'Ахмедов Дониёр',
       position: 'Начальник отдела по брокерскому обслуживанию клиентов',
-      image: '/images/team/donier.jpg'
+      image: '/images/members/donier.jpg'
     },
     {
       id: 5,
       name: 'Каримов Максим',
       position: 'Главный специалист по привлечению клиентов',
-      image: '/images/team/karimov.jpg'
+      image: '/images/members/karimov.jpg'
     },
     {
       id: 6,
       name: 'Алексеева Виктория',
       position: 'Главный менеджер по привлечению клиентов',
-      image: '/images/team/viktoria.jpg'
+      image: '/images/members/viktoria.jpg'
     }
   ];
 
